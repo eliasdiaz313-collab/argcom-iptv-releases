@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "todos": true,
+  "todosNombre": "Todos los canales",
+  "mostrarResto": true,
+  "restoNombre": "Otros",
+  "categorias": [
+    {
+      "nombre": "Infantil",
+      "canales": [
+        "Baby TV",
+        "Cartoon Network HD",
+        "Discovery Kids",
+        "Disney Channel HD",
+        "Disney Junior",
+        "Nick HD",
+        "Nick Jr",
+        "Pakapaka"
+      ]
+    },
+    {
+      "nombre": "Deportes",
+      "canales": [
+        "DeporTV",
+        "ESPN 2 HD",
+        "ESPN 3 HD",
+        "ESPN 4 HD",
+        "ESPN 5 HD",
+        "ESPN 6 HD",
+        "ESPN 7 HD",
+        "ESPN HD",
+        "ESPN Premium HD",
+        "EV3NTOS 1",
+        "EV3NTOS 2",
+        "Fox Sports 2 HD",
+        "Fox Sports 3 HD",
+        "Fox Sports HD",
+        "TNT Sports HD",
+        "TyC Sports HD"
+      ]
+    },
+    {
+      "nombre": "Noticias",
+      "canales": [
+        "A24",
+        "C5N",
+        "CNN en Español",
+        "Crónica",
+        "La Nación TV",
+        "TN HD"
+      ]
+    },
+    {
+      "nombre": "Novelas",
+      "canales": [
+        "Pasiones HD",
+        "Somos",
+        "TL Novelas",
+        "TNT Novelas HD",
+        "Volver"
+      ]
+    },
+    {
+      "nombre": "TV Argentina",
+      "canales": [
+        "26TV",
+        "America TV HD",
+        "Ciudad Magazine",
+        "Encuentro",
+        "Rural",
+        "TV Pública HD",
+        "Telefe HD",
+        "el nueve HD",
+        "el trece HD"
+      ]
+    },
+    {
+      "nombre": "Documentales",
+      "canales": [
+        "Animal Planet",
+        "Discovery Channel HD",
+        "Discovery H&H HD",
+        "Discovery ID HD",
+        "Discovery Science",
+        "Discovery Theater HD",
+        "Discovery Turbo",
+        "Discovery World HD",
+        "El Gourmet HD",
+        "HGTV",
+        "History 2",
+        "Nat Geo HD",
+        "The History Channel HD"
+      ]
+    },
+    {
+      "nombre": "Películas y series",
+      "canales": [
+        "A&E HD",
+        "AMC HD",
+        "AMC Series HD",
+        "AXN HD",
+        "Cine.AR",
+        "Cinecanal HD",
+        "Cinemax",
+        "FX HD",
+        "Film & Arts HD",
+        "HBO 2",
+        "HBO Family HD",
+        "HBO HD",
+        "HBO Mundi",
+        "HBO POP",
+        "HBO Plus",
+        "HBO Signature",
+        "HBO Xtreme HD",
+        "Sony HD",
+        "Sony Movies HD",
+        "Space HD",
+        "Star Channel HD",
+        "Studio Universal",
+        "TCM",
+        "TNT HD",
+        "TNT Series HD",
+        "Universal HD",
+        "Warner Channel HD"
+      ]
+    },
+    {
+      "nombre": "Entretenimiento",
+      "canales": [
+        "Adult Swim HD",
+        "Comedy Central HD",
+        "E! Entertainment",
+        "HTV",
+        "Lifetime",
+        "MTV HD",
+        "Quiero Musica"
+      ]
+    }
+  ]
+}
