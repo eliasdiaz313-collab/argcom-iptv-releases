@@ -61,12 +61,6 @@
       ]
     },
     {
-      "nombre": "Radios",
-      "canales": [
-        "Radio Rivadavia",
-      ]
-    },
-    {
       "nombre": "TV Argentina",
       "canales": [
         "26TV",
@@ -140,6 +134,28 @@
         "Lifetime",
         "MTV HD",
         "Quiero Musica"
+      ]
+    },
+    {
+      "nombre": "Radios",
+      "canales": [
+        "Mitre AM 790",
+        "Radio Rivadavia",
+        "La 100",
+        "Rock And Pop FM 95.9",
+        "Radio 10",
+        "Blue FM 100.7",
+        "Radio Con Vos 89.9",
+        "Radio La Red AM 910",
+        "Metro 95.1",
+        "Aspen 102.3",
+        "MEGA 98.3",
+        "Cadena 3 Cordoba",
+        "Radio Disney Argentina 94.3",
+        "Pop Radio 101.5",
+        "Urbana Play 104.3",
+        "La Popu",
+        "Pobre Johnny"
       ]
     }
   ]
