@@ -61,6 +61,12 @@
       ]
     },
     {
+      "nombre": "Radios",
+      "canales": [
+        "Radio Rivadavia",
+      ]
+    },
+    {
       "nombre": "TV Argentina",
       "canales": [
         "26TV",
