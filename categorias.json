@@ -75,6 +75,14 @@
       ]
     },
     {
+      "nombre": "Córdoba",
+      "canales": [
+        "El Doce",
+        "Telefe Cordoba",
+        "Canal 10 Cordoba"
+      ]
+    },
+    {
       "nombre": "Documentales",
       "canales": [
         "Animal Planet",
