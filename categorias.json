@@ -166,6 +166,12 @@
         "La Popu",
         "Pobre Johnny"
       ]
-    }
+    },
+   {
+      "nombre": "24/7",
+      "canales": [
+        "Los Simpsons 24"
+      ]
+    },
   ]
 }
